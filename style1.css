@@ -1,0 +1,36 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+    padding: 20px;
+}
+
+.intro-box {
+    background-color: rgb(192, 233, 186);
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 0 10px black;
+}
+
+.content-box {
+    background-color: rgb(192, 233, 186);
+    padding: 20px;
+    margin: 20px 0 auto;
+    border: 20px;
+    box-shadow: 0 0 10px black;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+a {
+    margin: 10px;
+    padding: 8px;
+    background-color: lightgray;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+}
